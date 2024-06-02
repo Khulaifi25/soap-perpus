@@ -27,25 +27,7 @@ NuSOAP is a rewrite of SOAPx4, provided by NuSphere and Dietrich Ayala. It is a 
 - Supported PHP: [5.4 - 8.2](https://packagist.org/packages/econea/nusoap)
 - Official project: https://sourceforge.net/projects/nusoap/
 
-## Installation
 
-To install this library use [Composer](https://getcomposer.org/).
-
-```
-composer require econea/nusoap
-```
-
-## Usage
-
-```php
-// Config
-$client = new nusoap_client('example.com/api/v1', 'wsdl');
-$client->soap_defencoding = 'UTF-8';
-$client->decode_utf8 = FALSE;
-
-// Calls
-$result = $client->call($action, $data);
-```
 
 ## Development
 
