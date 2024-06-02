@@ -35,14 +35,10 @@ See [how to contribute](https://contributte.org/contributing.html) to this packa
 
 This package is currently maintained by these authors.
 
-<a href="https://github.com/khulaifi25">
-    <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
-</a>
 
-<a>
-  Copyright 4Saken ID - NoirRf
-</a>
 
 -----
 
 Consider to [support](https://github.com/sponsors/f3l1x) **f3l1x**. Also thank you for using this package.
+-------------------------------------  Copyright 4Saken ID - NoirRf  -------------------------------------
+
