@@ -35,7 +35,7 @@ See [how to contribute](https://contributte.org/contributing.html) to this packa
 
 This package is currently maintained by these authors.
 
-<a href="https://github.com/f3l1x">
+<a href="https://github.com/khulaifi25">
     <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
 </a>
 
